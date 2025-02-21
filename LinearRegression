@@ -1,0 +1,9 @@
+public class LinearRegression{
+  public static int calcM(double[] x, double[] y){
+    for (double xvalue : x){
+      for (double yvalue : y){
+      
+      }
+    }
+  }
+}
